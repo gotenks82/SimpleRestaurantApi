@@ -51,7 +51,7 @@ The service is written in Kotlin 1.5.2, using Micronaut 3.0.0 and Akka 2.6
 Execute `./gradlew run` from the root of the project to run the application with basic configuration.
 
 ### ...with Intellij
-In the `.idea/runConfiguration` folder you can find a run configuration for IntelliJ that executes the gradle task.
+In the `runConfiguration` folder you can find a run configuration for IntelliJ that executes the gradle task.
 
 ### ...with docker
 Execute `docker-compose up` to build the image and start the docker container.  
